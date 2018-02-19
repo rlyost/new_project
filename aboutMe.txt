@@ -2,3 +2,4 @@
 Name: Rick Yost
 Project Goal: Master Git
 Favorite TV Show: Black Mirror
+Favorite Quote: "Good." - Jocko Willink
